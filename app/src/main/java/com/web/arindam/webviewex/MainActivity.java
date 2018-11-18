@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
+        /////////////////ppppp
         dialog1=new ProgressDialog(this);
         dialog1.show();
         dialog1.setContentView(R.layout.custom_progressdialog);
